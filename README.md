@@ -15,3 +15,5 @@ a [community created guide](https://llllllll.co/t/a-users-guide-to-i2c/19219) go
 as more modules are added to the `ii` ecosystem it's become clearer that we should establish a set of standards for the protocol. this will reduce code complexity and create some reusable patterns that will benefit the system.
 
 the goal will be establish a "ii 1.0 standard" document here.
+
+see the [issue list](https://github.com/monome/ii/issues) for topics of discussion.
