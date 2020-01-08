@@ -8,6 +8,8 @@ i2c for synth modules
 
 `ii` is a protocol layer and configuration which uses the [i2c](https://en.m.wikipedia.org/wiki/I%C2%B2C) physical bus. (this is to say, `ii` is a subset of `i2c`.)
 
+[initial documentation](https://github.com/scanner-darkly/teletype/wiki/II-protocol) by @scanner_darkly
+
 a [community created guide](https://llllllll.co/t/a-users-guide-to-i2c/19219) goes into further details of the current implementation.
 
 ## 1.0
